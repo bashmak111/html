@@ -102,7 +102,7 @@ header {
 }
 
 .mainContent::before {
-    content: 'Контент скоро появится';
+    content: 'скоро';
     position: absolute;
     top: 50%;
     left: 50%;
@@ -302,3 +302,4 @@ footer {
         font-size: 1.2rem;
     }
 }
+
